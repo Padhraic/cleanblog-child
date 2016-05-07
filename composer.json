@@ -1,0 +1,27 @@
+{
+	"name": "cleanblog-child",
+	"description": "Child theme of the startbootstrap cleanblog theme",
+	"version": "0.1.0",
+	"type": "wordpress-theme",
+	"keywords": [],
+	"homepage": "https://github.com/Padhraic/cleanblog-child",
+	"license": "GPL-2.0+",
+	"authors": [
+		{
+			"name": "padhraic",
+			"email": "pcoogan@gmail.com",
+		"homepage": "http://www.zensogo.net",
+			"role": "Developer"
+		}
+	],
+    "minimum-stability": "dev",
+	"require": {
+		"php": ">=5.6"
+	},
+    "require-dev": {
+	    "antecedent/patchwork": "1.2.*",
+        "phpunit/phpunit"     : "*@stable",
+	    "brianium/paratest"   : "dev-master",
+        "10up/wp_mock"        : "dev-master"
+    }
+}

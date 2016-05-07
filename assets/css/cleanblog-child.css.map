@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "cleanblog-child.css",
+	"sources": [
+		"sass/cleanblog-child.scss"
+	],
+	"mappings": "AAAA;;;;;;GAMG;AAEH,OAAO,CAAC,mCAAI",
+	"names": []
+}
